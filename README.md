@@ -1,0 +1,1 @@
+Sometimes there is a situation when you need to reboot a lot of VMs. But if they are located on different nodes, this becomes a problem. This script is designed to sequentially turn off and turn on the VM from a predefined range. To do this, VMIDS should not be distributed randomly, but according to some specific logic.
